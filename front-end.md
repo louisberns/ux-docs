@@ -89,6 +89,12 @@ gulp.task('watch', function() {
 gulp.task('default', gulp.parallel('sass', 'watch'));
 ```
 
+## The Grid - Framework Flexbox
+Framework open-source desenvolvido para otimizar a aplicação do Flexbox no front-end das aplicações, utilizado no hospitalar para facilitar a aplicação de responsividade nas interfaces do sistema.
+
+- [Referência The Grid - Flexbox](http://quinalha.me/the-grid/)
+- [Repositório GitHub](https://github.com/gustavoquinalha/the-grid-docs)
+
 
 ## Como instalar e configurar?
 Processo de instalação e configuração da estrutura de desenvolvimento com as ferramentas para front-end, só precisa ser executado uma vez.
