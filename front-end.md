@@ -105,6 +105,8 @@ Framework open-source desenvolvido para otimizar a aplicação do Flexbox no fro
 - [Repositório GitHub](https://github.com/gustavoquinalha/the-grid)
 
 
+
+
 ## Como instalar e configurar?
 Processo de instalação e configuração da estrutura de desenvolvimento com as ferramentas para front-end, só precisa ser executado uma vez.
 
@@ -126,7 +128,7 @@ Com o repositório do projeto [Hospitalar Aplicação](https://github.com/benner
   - Verifique a pasta atual - `$ pwd`
 
 ![Abrir Package Manager Console](https://github.com/uxluissilva/ux-docs/blob/master/img/open-pmc.png)
-![Navegar até a pasta Estrutura e rodar pwd](https://github.com/uxluissilva/ux-docs/blob/master/img/open-pmc.png)
+![Navegar até a pasta Estrutura e rodar pwd](https://github.com/uxluissilva/ux-docs/blob/master/img/pwd-console.png)
 
 6. Ainda no **Package Manager Console**, na pasta Estrutura, instale as dependências do projeto
   - Instale as dependências com o NPM - `$ npm i`
