@@ -17,7 +17,7 @@ São utilizadas tecnologias para facilitar o desenvolvimento do front-end e gara
 
 
 ### NPM Packages
-![NPM logo](https://github.com/uxluissilva/ux-docs/img/npm.png)
+![NPM logo](https://github.com/uxluissilva/ux-docs/blob/master/img/npm.png)
 Os pacotes que são utilizados encontram-se em `Interface\Estrutura\`, são utilizados os pacotes de acordo com o `package.json` do projeto. Caso o projeto ainda não possua um arquivo `package.json`, adicionar o código abaixo na estrutura principal e instalar com `npm install`.
 
 Exemplo abaixo da primeira versão utilizada:
@@ -44,7 +44,7 @@ Exemplo abaixo da primeira versão utilizada:
 
 
 ### Gulp
-![Gulp logo](https://github.com/uxluissilva/ux-docs/img/gulp.png)
+![Gulp logo](https://github.com/uxluissilva/ux-docs/blob/master/img/gulp.png)
 O arquivo `gulpfile.js` é responsável pelas atividades executadas pelo Gulp, essas são as tarefas configuradas que serão executadas para pré-processar os arquivos SASS e outros configurados. Caso o projeto não possua um arquivo de configuração `gulpfile.js`, deve ser adicionado o arquivo na estrutura principal do projeto e adicionado o código abaixo ou similar de configuração, para que seja possível rodar o Gulp.
 
 É importante citar, que o Gulp está configurado para rodar na pasta `scss` com base no arquivo `main.scss`, portanto estes são essenciais para a estrutura de SASS do projeto.
@@ -98,7 +98,7 @@ gulp.task('default', gulp.parallel('sass', 'watch'));
 ```
 
 ## The Grid - Framework Flexbox
-![The Grid logo](https://github.com/uxluissilva/ux-docs/img/the-grid.png)
+![The Grid logo](https://github.com/uxluissilva/ux-docs/blob/master/img/the-grid.png)
 Framework open-source desenvolvido para otimizar a aplicação do Flexbox no front-end das aplicações, utilizado no hospitalar para facilitar a aplicação de responsividade nas interfaces do sistema.
 
 - [Referência The Grid - Flexbox](http://quinalha.me/the-grid/)
@@ -125,8 +125,8 @@ Com o repositório do projeto [Hospitalar Aplicação](https://github.com/benner
   - Navegue até a pasta Estrutura - `$ cd Estrutura\`
   - Verifique a pasta atual - `$ pwd`
 
-![Abrir Package Manager Console](https://github.com/uxluissilva/ux-docs/img/open-pmc.png)
-![Navegar até a pasta Estrutura e rodar pwd](https://github.com/uxluissilva/ux-docs/img/open-pmc.png)
+![Abrir Package Manager Console](https://github.com/uxluissilva/ux-docs/blob/master/img/open-pmc.png)
+![Navegar até a pasta Estrutura e rodar pwd](https://github.com/uxluissilva/ux-docs/blob/master/img/open-pmc.png)
 
 6. Ainda no **Package Manager Console**, na pasta Estrutura, instale as dependências do projeto
   - Instale as dependências com o NPM - `$ npm i`
@@ -136,9 +136,9 @@ Com o repositório do projeto [Hospitalar Aplicação](https://github.com/benner
   - Selecione a opção "Configure External Tools"
   - Mova o `$PATH` para a primeira linha, conforme imagem abaixo
 
-![No file explorer, entrar na pasta estrutura e clicar c/ botão direito no gulpfile](https://github.com/uxluissilva/ux-docs/img/open-cet.png)
+![No file explorer, entrar na pasta estrutura e clicar c/ botão direito no gulpfile](https://github.com/uxluissilva/ux-docs/blob/master/img/open-cet.png)
 
-![Em Configure External Tools, imagem da GUI com $PATH em primeiro](https://github.com/uxluissilva/ux-docs/img/garantir-refs.png)
+![Em Configure External Tools, imagem da GUI com $PATH em primeiro](https://github.com/uxluissilva/ux-docs/blob/master/img/garantir-refs.png)
 
 8. Reinstalar o pacote node-sass
   - Abra o **Package Manager Console** e navegue até `$ cd Interface\Estrutura\` ou verifique  com `$ pwd`
@@ -151,12 +151,12 @@ Pronto, todas as dependências foram instaladas, parabéns! Veja como utilizar a
 Após a instalação e configuração abra o Gerenciador do Task Runner no Visual Studio e inicie o Gulp.
 - Abra o diretório `Interface\Estrutura\` no explorer do Visual Studio 
 
-![File explorer projeto Interface](https://github.com/uxluissilva/ux-docs/img/explorer.png)
+![File explorer projeto Interface](https://github.com/uxluissilva/ux-docs/blob/master/img/explorer.png)
 
 - Clique com o botão direito no arquivo `gulpfile.js` e abrar o Task Runner Explorer
 
-![Menu botão direito no gulpfile](https://github.com/uxluissilva/ux-docs/img/task-runner.png)
+![Menu botão direito no gulpfile](https://github.com/uxluissilva/ux-docs/blob/master/img/task-runner.png)
 
 - Inicie a task `default` no Gerenciador do Task Runner
 
-![Iniciando a task default no gerenciador do task runner](https://github.com/uxluissilva/ux-docs/img/gulp-default.png)
+![Iniciando a task default no gerenciador do task runner](https://github.com/uxluissilva/ux-docs/blob/master/img/gulp-default.png)
