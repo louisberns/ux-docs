@@ -21,7 +21,7 @@ São utilizadas tecnologias para facilitar o desenvolvimento do front-end e gara
 Os pacotes que são utilizados encontram-se em `Interface\Estrutura\`, são utilizados os pacotes de acordo com o `package.json` do projeto. Caso o projeto ainda não possua um arquivo `package.json`, adicionar o código abaixo na estrutura principal e instalar com `npm install`.
 
 Exemplo abaixo da primeira versão utilizada:
-```
+```json
 {
   "version": "1.0.0",
   "name": "asp.net",
@@ -50,7 +50,7 @@ O arquivo `gulpfile.js` é responsável pelas atividades executadas pelo Gulp, e
 É importante citar, que o Gulp está configurado para rodar na pasta `scss` com base no arquivo `main.scss`, portanto estes são essenciais para a estrutura de SASS do projeto.
 
 Veja abaixo o exemplo do gulpfile na primeira versão:
-```
+```javascript
 /*
 This file is the main entry point for defining Gulp tasks and using Gulp plugins.
 Click here to learn more. https://go.microsoft.com/fwlink/?LinkId=518007
