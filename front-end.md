@@ -16,8 +16,7 @@ São utilizadas tecnologias para facilitar o desenvolvimento do front-end e gara
 - [Gulp - Task Runner](https://gulpjs.com/)
 
 
-### NPM Packages
-![NPM logo](https://github.com/uxluissilva/ux-docs/blob/master/img/npm.png)
+### NPM Packages ![NPM logo](https://github.com/uxluissilva/ux-docs/blob/master/img/npm.png)
 
 Os pacotes que são utilizados encontram-se em `Interface\Estrutura\`, são utilizados os pacotes de acordo com o `package.json` do projeto. Caso o projeto ainda não possua um arquivo `package.json`, adicionar o código abaixo na estrutura principal e instalar com `npm install`.
 
@@ -44,8 +43,7 @@ Exemplo abaixo da primeira versão utilizada:
 ```
 
 
-### Gulp
-![Gulp logo](https://github.com/uxluissilva/ux-docs/blob/master/img/gulp.png)
+### Gulp ![Gulp logo](https://github.com/uxluissilva/ux-docs/blob/master/img/gulp.png)
 
 O arquivo `gulpfile.js` é responsável pelas atividades executadas pelo Gulp, essas são as tarefas configuradas que serão executadas para pré-processar os arquivos SASS e outros configurados. Caso o projeto não possua um arquivo de configuração `gulpfile.js`, deve ser adicionado o arquivo na estrutura principal do projeto e adicionado o código abaixo ou similar de configuração, para que seja possível rodar o Gulp.
 
@@ -99,8 +97,7 @@ gulp.task('watch', function() {
 gulp.task('default', gulp.parallel('sass', 'watch'));
 ```
 
-## The Grid - Framework Flexbox
-![The Grid logo](https://github.com/uxluissilva/ux-docs/blob/master/img/the-grid.png)
+## The Grid - Framework Flexbox ![The Grid logo](https://github.com/uxluissilva/ux-docs/blob/master/img/the-grid.png)
 
 Framework open-source desenvolvido para otimizar a aplicação do Flexbox no front-end das aplicações, utilizado no hospitalar para facilitar a aplicação de responsividade nas interfaces do sistema.
 
