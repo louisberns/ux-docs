@@ -8,7 +8,8 @@
 
 ## Materiais de estudo
 - UX Design
-	- 
+	- [UX Collective](https://uxdesign.cc/)
+	- [Métodos e entregáveis de UX](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d)
 - Desenvolvimento Web
 	- [Google Performance docs](https://developers.google.com/web/fundamentals/performance/get-started/)
 	- [Google UX e Responsividade](https://developers.google.com/web/fundamentals/design-and-ux/ux-basics/)
@@ -36,11 +37,37 @@
 
 
 ## Ferramentas de Design
-- Arquitetura de Informação
-- UI Design
+- AI e usuário
+	- [Draw.io - Diagrama de processos/jornadas](https://www.draw.io/)
+	- [Personas](https://brasil.uxdesign.cc/por-que-criar-personas-bc796a1ffc7e)
+- UI Design (free tools)
+	- Adobe Photoshop alternatives
+		- [Krita](https://krita.org/en/features/highlights/)
+		- [Gimp](https://www.gimp.org/)
+	- Vector design
+		- [Inkscape](https://inkscape.org/en/)
+		- [Designer.io](https://www.designer.io/)
+	- Sketch alternative (prototipagem)
+		- [Akira](https://github.com/Alecaddd/Akira) 
+		- [MarvelApp](https://marvelapp.com/features/ )
+		- [Figma](https://www.figma.com/)
+	- Mac only
+		- [Origami](https://origami.design/)
+		- [Sketch](https://www.sketchapp.com/)
+		- [Framer](https://framer.com/sketch/)
 - Métricas e Estratégia
-- Entrevistas de UX
-- Animações e microinterações
+	- [Google HEART Framework](https://www.dtelepathy.com/ux-metrics/)
+	- [KPI's](https://designmodo.com/ux-kpi/)
+	- [OKR's](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
+- Monitoramento e testes
+	- [Google Optimize - Teste A/B](https://optimize.google.com/)
+	- [Smartlook - testes de usabilidade](https://www.smartlook.com/)
+	- [Hotjar](https://www.hotjar.com/)
+	- [Mixpanel](https://mixpanel.com/)
+- Metodologias
+	- [Double Diamond](https://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond)
+	- [Design Sprint](http://www.gv.com/sprint/)
+	- [Lean UX](https://brasil.uxdesign.cc/o-que-%C3%A9-lean-ux-525888067c36)
 
 
 
