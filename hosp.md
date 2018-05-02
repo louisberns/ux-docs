@@ -26,6 +26,7 @@ Abaixo toda a listagem de conteúdos do drive, caso preferir, navegue direto pel
 ## Anotações UX Design
 Documentação utilizada para fundamentar os trabalhos de UX projetados e desenvolvidos no Hospitalar.
 
+- [Atividades em andamento no Trello](https://trello.com/b/CpH9VeS6)
 - Escopo projeto UX - [v.1](http://www.evernote.com/l/AWl0858g5_FKrquZV2WHhHuT3RLZC3gWNJs/) e [v.2](http://www.evernote.com/l/AWkhJOaJHVZEY7_fI1VbAIERG9Gtf-3oh7U/)
 - [Escopo projeto Redesign](http://www.evernote.com/l/AWk0Eovj8EhLv4ixGK3XAXlNhLS640iVUEg/)
 - [Funcionalidades do produto](http://www.evernote.com/l/AWk8KcDaatZMzoIR0KQpDPddnJUD12GJvK4/)

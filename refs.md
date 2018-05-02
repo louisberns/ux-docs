@@ -7,10 +7,31 @@
 - [Ferramentas para Front-end](https://github.com/uxluissilva/ux-docs/blob/master/refs.md#ferramentas-para-front-end)
 
 ## Materiais de estudo
-- Leituras
-- Artigos, blogs etc
-- Tutoriais
-- Vídeos 
+- UX Design
+	- 
+- Desenvolvimento Web
+	- [Google Performance docs](https://developers.google.com/web/fundamentals/performance/get-started/)
+	- [Google UX e Responsividade](https://developers.google.com/web/fundamentals/design-and-ux/ux-basics/)
+	- [Mozilla - Documentação CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+	- [w3schools - Referências interativas CSS](https://www.w3schools.com/css/default.asp)
+- Vue JS
+	- [Alura - curso completo front-end c/ Vue](https://www.alura.com.br/carreira-desenvolvedor-vuejs)
+	- [Laracasts - Vue 2 step by step](https://laracasts.com/series/learn-vue-2-step-by-step)
+	- [Vue school](https://vueschool.io/)
+- CSS
+	- Flexbox
+		- [Guia completo Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+		- [MDN Flexbox docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+		- [Froggy - aprenda Flexbox jogando](https://flexboxfroggy.com/)
+	- Media query's
+		- [MDN Media queries docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+		- [w3schools - tutorial interativo](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+		- [Referência de devices p/ media queries](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+	- Animations
+		- [MDN CSS Animations docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+		- [w3schools - tutorial interativo](https://www.w3schools.com/css/css3_animations.asp)
+		- [Gerador de Keyframes](http://cssanimate.com/)
+		- [Exemplo interativo e biblioteca de animações](https://daneden.github.io/animate.css/)
 
 
 
@@ -25,11 +46,29 @@
 
 ## Ferramentas para Front-end
 - Performance
+	- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+	- [WebpageTest](https://www.webpagetest.org/)
+	- [Chrome devtools audits](https://developers.google.com/web/tools/lighthouse/)
 - Task Runners
+	- [Gulp](https://gulpjs.com/)
+	- [Grunt](https://gruntjs.com/)
 - Pré-processadores
+	- [SASS](https://sass-lang.com/)
+	- [LESS](http://lesscss.org/)
 - Code Lint
-- Pacotes úteis NPM
+	- [cleanCSS](https://www.npmjs.com/package/gulp-clean-css)
+	- [Babel eslint](https://www.npmjs.com/package/babel-eslint)
 - Terminais
+	- [Linux bash sub sistema Windows](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+	- [ConEmu](https://conemu.github.io/)
+	- [Cygwin](https://www.cygwin.com/)
 
 
 
+## Awesome lists
+- [Design](https://github.com/gztchan/awesome-design/blob/master/README.md)
+- [UX](https://github.com/netoguimaraes/awesome-ux)
+- [CSS](https://github.com/awesome-css-group/awesome-css)
+- [Vue](https://github.com/vuejs/awesome-vue)
+- [NPM](https://github.com/sindresorhus/awesome-npm)
+- [NodeJS](https://github.com/sindresorhus/awesome-nodejs)

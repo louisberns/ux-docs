@@ -5,8 +5,10 @@
 Documentação referente à estrutura de desenvolvimento front-end da aplicação Hospitalar Benner. 
 
 
+
 ## O que contém?
 São utilizadas tecnologias para facilitar o desenvolvimento do front-end e garantir maior consistência nos códigos referentes aos componentes e estilos do sistema, essas tecnologias ajudam com a automatização de tarefas com o runner [Gulp](https://gulpjs.com/) e a criação de variáveis de estilo e otimização do CSS com o [SASS](https://sass-lang.com/).
+
 
 ### Tecnologias:
 
@@ -14,6 +16,7 @@ São utilizadas tecnologias para facilitar o desenvolvimento do front-end e gara
 - [Ruby on Rails](https://rubyinstaller.org/)
 - [SASS - pré-processador CSS](https://sass-lang.com/)
 - [Gulp - Task Runner](https://gulpjs.com/)
+
 
 
 ### ![NPM logo](https://github.com/uxluissilva/ux-docs/blob/master/img/npm.png)   NPM Packages
@@ -41,6 +44,7 @@ Exemplo abaixo da primeira versão utilizada:
   }
 }
 ```
+
 
 
 ### ![Gulp logo](https://github.com/uxluissilva/ux-docs/blob/master/img/gulp.png)   Gulp Task Runner
@@ -97,13 +101,13 @@ gulp.task('watch', function() {
 gulp.task('default', gulp.parallel('sass', 'watch'));
 ```
 
+
 ## ![The Grid logo](https://github.com/uxluissilva/ux-docs/blob/master/img/the-grid.png)   The Grid - Framework Flexbox 
 
 Framework open-source desenvolvido para otimizar a aplicação do Flexbox no front-end das aplicações, utilizado no hospitalar para facilitar a aplicação de responsividade nas interfaces do sistema.
 
 - [Referência The Grid - Flexbox](http://quinalha.me/the-grid/)
 - [Repositório GitHub](https://github.com/gustavoquinalha/the-grid)
-
 
 
 
@@ -147,6 +151,7 @@ Com o repositório do projeto [Hospitalar Aplicação](https://github.com/benner
   - Reinstale o pacote node-sass `npm i node-sass`
 
 Pronto, todas as dependências foram instaladas, parabéns! Veja como utilizar a seguir.
+
 
 
 ## Como utilizar?
